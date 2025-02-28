@@ -6,7 +6,7 @@ Pokedex app built with Flutter
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
-Installation
+## Installation
 
 - Add [Flutter](https://flutter.dev/docs/get-started/install) to your machine
 
