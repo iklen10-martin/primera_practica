@@ -5,6 +5,7 @@ import 'package:my_app/utils/strings.dart';
 import 'package:my_app/widgets/custom_image.dart';
 import 'package:my_app/widgets/evolution_section.dart';
 
+//Hola soy un comentario
 class PokemonDetailsPage extends StatelessWidget {
   final String name;
   const PokemonDetailsPage({
